@@ -4,7 +4,7 @@
     "expires": "infinite",
     "hwid": "68EF9875-8A2E-43AA-8B52-F40870FDA31A",
     "desc": "Owner only",
-    "placeids": [all]
+    "placeids": "all"
   },
   {
     "key": "PREMIUM2025-12",
@@ -18,8 +18,6 @@
     "expires": "29-11-2025",
     "hwid": "all",
     "desc": "Available for everyone",
-    "placeids": [16472538603, 10179538382]       --"all"
+    "placeids": [16472538603, 10179538382]
   }
 ]
-
-
