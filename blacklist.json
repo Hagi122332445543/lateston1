@@ -1,0 +1,11 @@
+{
+  "users": [
+    { "name": "LiamSmolder", "reason": "Chargeback" },
+    { "name": "Cheater123", "reason": "Cheating" },
+    { "name": "ExploiterXYZ", "reason": "Exploiting" }
+  ],
+  "hwids": [
+    { "hwid": "blacklisted_hwid_1", "reason": "HWID Ban" },
+    { "hwid": "blacklisted_hwid_2", "reason": "Multiple Accounts" }
+  ]
+}
